@@ -1,5 +1,6 @@
 # Summary
 
 * [About](README.md)
-* [Installation ](chapter1.md)
+* [Installation](chapter1.md)
+* Resources
 
