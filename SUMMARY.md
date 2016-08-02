@@ -6,5 +6,5 @@
 * [Clickatell setup](clickatell_setup.md)
 * [Action Form Setup](action_form_setup.md)
 * [Resources](resources.md)
-* Settings Reference
+* [Settings Reference](settings_reference.md)
 
