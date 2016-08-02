@@ -8,4 +8,5 @@ Next, add a button which will push the message to the Clickatell API. The action
 
 ![](CLICKATL.jpg)
 
-Save settings, go back to the front end. The form should look similar to 
+Save settings, go back to the front end. The form should look similar to
+![](ClickAtell2.jpg)
