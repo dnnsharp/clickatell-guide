@@ -3,4 +3,5 @@
 * [About](README.md)
 * [Installation](chapter1.md)
 * Resources
+   * Resources
 
