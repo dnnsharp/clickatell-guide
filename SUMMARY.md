@@ -5,6 +5,6 @@
 * [Clickatell account signup](clickatell_account_signup.md)
 * [Clickatell setup](clickatell_setup.md)
 * [Action Form Setup](action_form_setup.md)
-* [Resources](resources.md)
 * [Settings Reference](settings_reference.md)
+* [Resources](resources.md)
 
