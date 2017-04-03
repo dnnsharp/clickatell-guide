@@ -10,3 +10,5 @@ This action send SMS to cell numbers, via the Clickatell gateway. It can be used
 
 
 
+![](/assets/clicka.png)
+
