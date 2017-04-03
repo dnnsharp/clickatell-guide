@@ -2,7 +2,9 @@
 
 Dnn Sharp modules \(Action Form, Action Grid, Infobox, Sharp Scheduler, Dnn Api EndPoint\) integrate with Clickatell using SOAP or REST API. This needs to be setup in Clickatell Developers' Central.
 
-Login at [https://www.clickatell.com/login/](https://www.clickatell.com/login/) and add the SOAP API to your account from APIs &gt; Set up a new API &gt; Add SOAP API. Complete all the required fields to configure your API. After successfully adding a connection, a confirmation message will be displayed with a unique API ID and information on how to get started. It displays the API connection parameters and authentication details.
+If you have a Clickatell account created prior to November 2016 you should login at [Communicator / Central](https://archive.clickatell.com/login) page. 
+
+Add the SOAP API to your account from APIs &gt; Set up a new API &gt; Add SOAP API. Complete all the required fields to configure your API. After successfully adding a connection, a confirmation message will be displayed with a unique API ID and information on how to get started. It displays the API connection parameters and authentication details.
 
 These are required when connecting to the Clickatell gateway from Action Form to send a message.
 
