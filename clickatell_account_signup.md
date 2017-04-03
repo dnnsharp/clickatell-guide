@@ -1,8 +1,10 @@
-# Clickatell account signup
+# Your Clickatell accounts
+
+Not a Clickatell customer? First of all you should [Register an account](https://www.clickatell.com/sign-up/). 
+
+For Clickatell accounts created prior to November 2016. Access APIs integrations for Developer Central using the following [link](https://archive.clickatell.com/login).   
+  
+For accounts created November 2016 onwards. Access the new Clickatell communications platform for message sending using the Portal[link](https://portal.clickatell.com/#/accountDashboard)
 
 
-
-If you already have a Clickatell Central account, proceed to Step 2 for instructions on how to edit an API connection on your account.
-
-If you do not have a Clickatell Central account, you need to register for one. You can do so at [https://www.clickatell.com/register/?productid=1](https://www.clickatell.com/register/?productid=1) by signing up for the Developers' Central product. On sign up for you will be given a username, password and a client ID. Please note that the client ID is not the same thing as the API ID, which we will set up later. If you registered for the trial, you will have received 10 free credits with which to test the service. Messages sent with these credits contain a canned \(pre-populated\) message. You can test the API using these credits or purchase credits to start sending your own customized messages.
 
