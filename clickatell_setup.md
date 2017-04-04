@@ -4,9 +4,9 @@ Dnn Sharp modules \(Action Form, Action Grid, Infobox, Sharp Scheduler, Dnn Api 
 
 ### Platform
 
-If you have a Clickatell account created November 2016 onwards , you should login at new [Clickatell communications platform. ](https://portal.clickatell.com/#/login)
+If you have a Clickatell account created November 2016 onwards, you should login at new [Clickatell communications platform. ](https://portal.clickatell.com/#/login)
 
-Access the Profile Photo &gt; Profile Settings &gt; SMS Integration and create a new integration. After successfully filling all the required fields, save it. Your integration will be displayed into SMS Integration Dashboard. Only the API Key will be necessary to authorize a clickatell session through the Clickatel AddOn and one of the base DnnSharp Module along the Send SMS via Clickatell gateway action.
+Access the Profile Photo &gt; Profile Settings &gt; SMS Integration and create a new integration. After successfully filling all the required fields, save it. Your integration will be displayed into SMS Integration Dashboard. Only the API Key will be necessary to authorize a clickatell session through the Clickatell AddOn and one of the base DnnSharp Modules along the Send SMS via Clickatell gateway action.
 
 ![](/assets/Untitled.jpg)
 
